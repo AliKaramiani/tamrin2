@@ -1,0 +1,14 @@
+C:\Users\Click\Desktop\c#\t1org\bin\Debug\net8.0\t1org.exe
+C:\Users\Click\Desktop\c#\t1org\bin\Debug\net8.0\t1org.deps.json
+C:\Users\Click\Desktop\c#\t1org\bin\Debug\net8.0\t1org.runtimeconfig.json
+C:\Users\Click\Desktop\c#\t1org\bin\Debug\net8.0\t1org.dll
+C:\Users\Click\Desktop\c#\t1org\bin\Debug\net8.0\t1org.pdb
+C:\Users\Click\Desktop\c#\t1org\obj\Debug\net8.0\t1org.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Click\Desktop\c#\t1org\obj\Debug\net8.0\t1org.AssemblyInfoInputs.cache
+C:\Users\Click\Desktop\c#\t1org\obj\Debug\net8.0\t1org.AssemblyInfo.cs
+C:\Users\Click\Desktop\c#\t1org\obj\Debug\net8.0\t1org.csproj.CoreCompileInputs.cache
+C:\Users\Click\Desktop\c#\t1org\obj\Debug\net8.0\t1org.dll
+C:\Users\Click\Desktop\c#\t1org\obj\Debug\net8.0\refint\t1org.dll
+C:\Users\Click\Desktop\c#\t1org\obj\Debug\net8.0\t1org.pdb
+C:\Users\Click\Desktop\c#\t1org\obj\Debug\net8.0\t1org.genruntimeconfig.cache
+C:\Users\Click\Desktop\c#\t1org\obj\Debug\net8.0\ref\t1org.dll
